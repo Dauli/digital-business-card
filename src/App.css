@@ -1,0 +1,143 @@
+.App {
+  text-align: center;
+  width: 300px;
+  height: 550px;
+  background-color: #23252C;
+  margin: auto;
+  padding: 15px 30px 0 30px;
+  margin-top: 20px;
+
+  border-radius: 10px;
+  border-color: #c1c2c5;
+  border-style: solid;
+  box-shadow: 0 3px 2px 3px;
+}
+
+.photo {
+  width: 200px;
+  height: 200px;
+  border-radius: 7px 7px 0 0;
+}
+
+.myName {
+  color: #c1c2c5;
+  padding: 0;
+  margin: 0;
+  word-spacing: -0.1em;
+}
+
+/* .info, .about, .interest {
+  
+  
+} */
+
+.container {
+  background-color: #363942;
+  margin: 0 16px 20px 16px;
+  border-radius: 5px;
+}
+
+.p-title {
+  font-size: 9px;
+  margin: 0;
+  color: #F3BF99;
+}
+
+.p-web {
+  margin: 0;
+  font-size: 10px;
+  color: #c1c2c5;
+  padding: 4px;
+}
+
+.btn-email {
+  font-size: 10px;
+  border-style: none;
+  padding: 3px 5px;
+  margin-right: 10px;
+  border-radius: 5px;
+  box-shadow: 2px 2px;
+  cursor: pointer;
+  color: #f0904c;
+}
+
+.btn-linkden {
+  font-size: 10px;
+  border-style: none;
+  padding: 3px 5px;
+  margin-left: 10px;
+  border-radius: 5px;
+  box-shadow: 2px 2px;
+  cursor: pointer;
+  color: #5093E2;
+}
+
+.about-title {
+  color: #f0904c;
+  margin: 10px 10px 2px;
+  text-align: left;
+  font-size: 14px;
+}
+
+.about-p {
+  font-size: 10px;
+  text-align: left;
+  margin: 0 10px;
+  color: #c1c2c5;
+}
+
+.inter-title {
+  color: #f0904c;
+  margin: 10px 10px 2px;
+  text-align: left;
+  font-size: 14px;
+}
+
+.inter-p {
+  font-size: 10px;
+  text-align: left;
+  margin: 0 10px;
+  color: #c1c2c5;
+}
+
+.footer {
+  padding: 10px 0;
+  background-color: #161619;
+  border-radius: 0 0 5px 5px;
+  margin-top: 5px;
+  display: flex;
+  justify-content: center;
+}
+
+.footer img {
+  width: 20px;
+  margin: 0 10px;
+  border-radius: 5px;
+  padding: 2px;
+}
+
+.facebook {
+  background-color: #3B5998;
+  cursor: pointer;
+}
+
+.github {
+  background-color: #23252C;
+  cursor: pointer;
+}
+
+.google {
+  background-color: #DB4437;
+  cursor: pointer;
+}
+
+.instagram {
+  background-color: #feda75;
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+

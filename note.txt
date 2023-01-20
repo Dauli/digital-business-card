@@ -1,0 +1,18 @@
+How to deploy app to Netlify
+-----------------------------
+
+1. first build for production
+
+    >npm run build
+
+2. after that you will see folder:
+    
+    /build
+
+    that is folder to deploy.
+
+    
+
+    https://lambent-cocada-ca29cb.netlify.app/
+
+
