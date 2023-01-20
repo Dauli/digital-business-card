@@ -2,7 +2,7 @@
 
 Live link on Netlify: 
 
-    https://lambent-cocada-ca29cb.netlify.app/
+    [My Digital Business Card](https://lambent-cocada-ca29cb.netlify.app/)
 
 ## Available Scripts
 
